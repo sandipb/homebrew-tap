@@ -1,5 +1,7 @@
 # Sandipb Tap
 
+[![brew test-bot](https://github.com/sandipb/homebrew-tap/actions/workflows/tests.yml/badge.svg)](https://github.com/sandipb/homebrew-tap/actions/workflows/tests.yml)
+
 Homebrew tap for some of my utilities.
 
 ## How do I install these formulae?
